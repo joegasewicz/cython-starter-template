@@ -3,9 +3,11 @@ Starter template to create Python bindings from a C static library
 
 ### Quick Start
 
-First create a virtual environment
+First create & activate a virtual environment & install the python packages
 ```bash
 virtualenv -p python3 .venv
+source .venv/bin/activate
+pip install -r requirements.txt
 ```
 Then build the source C static lib, generate the Python bindings
 & run `main.py`.

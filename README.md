@@ -37,4 +37,4 @@ make clean
 ```
 
 ### VirtualEnv
-Your virtual environment should be names `.venv`
+Your virtual environment should be named `.venv`

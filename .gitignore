@@ -8,8 +8,10 @@
 *.s
 *.a
 build/
+listy.c
 
 # libs
 */*.o
 */*.s
 */*.a
+

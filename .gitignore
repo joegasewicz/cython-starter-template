@@ -3,7 +3,6 @@
 .vscode
 
 # Cython
-*.c
 *.so
 *.o
 *.s

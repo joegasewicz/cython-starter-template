@@ -1,0 +1,16 @@
+# Ides
+.idea
+.vscode
+
+# Cython
+*.c
+*.so
+*.o
+*.s
+*.a
+build/
+
+# libs
+*/*.o
+*/*.s
+*/*.a
